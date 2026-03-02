@@ -177,7 +177,6 @@ This case study reflects methodology and investigative reasoning only.
 
 ---
 
-*Author:* Onyalan S. Almeida  
-Digital Forensics & Incident Response Analyst  
-Technologist in Cybersecurity  
-Brazil | Spanish (Fluent) | English (B2 – progressing to C1)
+For professional inquiries:  
+LinkedIn: https://www.linkedin.com/in/onyalan-almeida-609a931b2/ 
+Email: professional contact available upon request
