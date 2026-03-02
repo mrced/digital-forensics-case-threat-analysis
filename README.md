@@ -178,5 +178,5 @@ This case study reflects methodology and investigative reasoning only.
 ---
 
 For professional inquiries:  
-LinkedIn: https://www.linkedin.com/in/onyalan-almeida-609a931b2/ 
+LinkedIn: https://www.linkedin.com/in/onyalan-almeida-609a931b2/
 Email: professional contact available upon request
