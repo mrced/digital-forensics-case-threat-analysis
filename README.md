@@ -1,6 +1,19 @@
 # Digital Forensic Case Study  
 ## Threat Assessment – Potential Non-Consensual Data Exposure
 
+## Case at a glance
+
+**Real-world private professional engagement | iOS and Windows 11 | Anonymized case study**
+
+I conducted the examination documented here, from evidence acquisition and integrity verification to artifact analysis, cross-device timeline reconstruction and written findings.
+
+- **Question:** Did the available device artifacts support the reported threat of sensitive-content disclosure, and was transmission confirmed?
+- **Tools:** FTK Imager for acquisition, Autopsy for disk analysis, and iLEAPP for iOS artifact parsing.
+- **Outcome:** Preparatory activity was identified, but the examined devices did not provide conclusive evidence of successful dissemination.
+- **Boundary:** Findings are limited to accessible local artifacts; no cloud-provider acquisition or server-side email logs were available.
+
+[Detailed methodology](Methodology.md) · [Professional profile](https://github.com/mrced) · [LinkedIn](https://www.linkedin.com/in/onyalan/)
+
 ---
 
 ## Professional Disclosure
@@ -178,5 +191,5 @@ This case study reflects methodology and investigative reasoning only.
 ---
 
 For professional inquiries:  
-LinkedIn: https://www.linkedin.com/in/onyalan-almeida-609a931b2/
+LinkedIn: https://www.linkedin.com/in/onyalan/
 Email: professional contact available upon request
